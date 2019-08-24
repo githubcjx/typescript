@@ -1,2 +1,2 @@
-# typescript_practice
+# typescript
 ts
