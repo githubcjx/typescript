@@ -1,3 +1,3 @@
 import myModule from './myModule'
 
-myModule.name
+console.log(myModule.name);
