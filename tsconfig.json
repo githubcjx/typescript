@@ -5,6 +5,10 @@
     "lib": ["es2016"],
     "outDir": "./dist", // 输出文件夹
     "strictNullChecks": true, // 严格空类型检查
+    "removeComments": true,
+    "noImplicitUseStrict": true,
+    "esModuleInterop": true,
+    "noEmitOnError": true
   },
   "include": ["./src"]
 }

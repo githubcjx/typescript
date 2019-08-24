@@ -1,4 +1,6 @@
-export let name = '123';
-export function sum(a, b) {
-    return a + b;
-}
+export default {
+    name: 'cjx',
+    sum(a, b) {
+        return a + b;
+    }
+};
