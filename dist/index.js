@@ -1,2 +1,3 @@
-import myModule from './myModule';
-myModule.name;
+import { createDeck, printCards } from "./funcs";
+const deck = createDeck();
+printCards(deck);
