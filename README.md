@@ -1,2 +1,2 @@
 # typescript
-ts
+学习typescript记录
